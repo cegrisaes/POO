@@ -1,4 +1,4 @@
-public class Perro extends Animal {
+public class Perro {
     public String nombre;
     public String raza;
 
